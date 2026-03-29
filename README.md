@@ -1,4 +1,4 @@
-# MiraiHP
+# Data Collection Unit
 
 A Python desktop application for real-time monitoring and management of an industrial press machine. Runs on a dedicated on-site terminal.
 
