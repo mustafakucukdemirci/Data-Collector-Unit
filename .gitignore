@@ -1,0 +1,32 @@
+# Environment & secrets
+.env
+credentials.json
+
+# Database files (contain production data)
+*.db
+*.sqlite
+*.sqlite3
+
+# Runtime data files
+data.txt
+dataforrecords.txt
+log.txt
+errors.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Misc
+*.zip
+*.log
+mirai@*
